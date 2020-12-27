@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tv Series</string>
+    <string name="tv_shows_most_popular">TV Shows | Most Popular</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="u2020">†</string>
+    <string name="u2022">•</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="watch_list">Watch List</string>
+    <string name="copyright_2020_by_moatamed_wageh">Copyright © Developed by Moatamed Wageh</string>
+
+</resources>
